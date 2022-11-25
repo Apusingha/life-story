@@ -2,5 +2,6 @@ currently,
 i am a student.
 i was born in 1999.
 i have studying bse in cse.
+i have completed hse
 
 
